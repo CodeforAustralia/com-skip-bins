@@ -12,15 +12,14 @@ ____
 
 ## USEFUL PROJECT INFORMATION
 
-What you'll find in this pack:
+### INDEX
 
-1. Overview of the project
+1. [Overview](#overview)
 2. What we did
 3. What we found
 4. Design flow
 
-
-### OVERVIEW
+### [OVERVIEW](#overview)
 
 Before this solution, skip bin companies had to fill out a lengthy online form in order to apply for a permit. they then had to wait 3-10 business days for their permit request to be reviewed, as the department, On-site Compliance Services (OCS), only had two permit officers who had other responsibilities. 
 
