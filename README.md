@@ -42,5 +42,5 @@ This makes it imperative that permits can be processed immediately.
 ### Design Flow
 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/OnBoarding.jpg) 
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.jpg) 
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/OnBoarding.png) 
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.png) 
