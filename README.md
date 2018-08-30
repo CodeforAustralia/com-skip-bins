@@ -5,7 +5,9 @@ Welcome to the skip bin permit application redesign open source repository! Here
 * Useful information on the background of this project, the findings from research, and why the application was designed the way it has been.
 * PDF files of the design
 * Sketch files 
-* The HTML prototype
+* [The Mockup](https://github.com/CodeforAustralia/com-skip-bins/tree/master/docs)
+* [The Code](https://github.com/CodeforAustralia/com-skip-bins/tree/master/code)
+* [The Live Mockup](https://codeforaustralia.github.io/com-skip-bins/)
 
 ____
 
