@@ -31,7 +31,7 @@ Upon review, it becamse clear that the process of approval could be automated, a
 
 We did contextual inquiry, and user testing, as well as stakeholder interviews.
 
-### [WHAT WE FOUND](#what-we-found)
+### WHAT WE FOUND
 
 We found many things! 
 
