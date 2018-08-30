@@ -40,7 +40,9 @@ First, skip bin companies need permits immediately. Not in 3- 10 days. Now. This
 This makes it imperative that permits can be processed immediately.
 
 ### Design Flow
-
+#### Application
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/OnBoarding.png) 
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.png) 
+#### OnBoarding 
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/OnBoarding.PNG) 
+#### Dashboard
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
