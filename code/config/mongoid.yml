@@ -28,14 +28,14 @@ development:
         #     - use: web
 
         # The name of the user for authentication.
-        # user: 'user'
+        # user: 'you!'
 
         # The password of the user for authentication.
-        # password: 'password'
+        # password: ''
 
         # The user's database roles.
         # roles:
-        #   - 'dbOwner'
+        #   - ''
 
         # Change the default authentication mechanism. Valid options are: :scram,
         # :mongodb_cr, :mongodb_x509, and :plain. Note that all authentication
@@ -152,7 +152,7 @@ development:
 test:
   clients:
     default:
-      database: my_mongo_app_test
+      database: data
       hosts:
         - localhost:27017
       options:
