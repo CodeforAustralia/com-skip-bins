@@ -1,5 +1,4 @@
-<h1> SKIP BIN PERMIT APPLICATION REDESIGN </h1>
-<h3> Handover pack </h3>
+# SKIP BIN PERMIT APPLICATION REDESIGN
 
 Welcome to the skip bin permit application redesign open source repository! Here you'll find:
 
@@ -11,7 +10,7 @@ Welcome to the skip bin permit application redesign open source repository! Here
 ____
 
 
-## THE HANDOVER PACK
+## USEFUL PROJECT INFORMATION
 
 What you'll find in this pack:
 
