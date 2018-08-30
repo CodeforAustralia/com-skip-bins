@@ -41,4 +41,4 @@ This makes it imperative that permits can be processed immediately.
 
 ### Design Flow
 
-!(...)[image of the flow of the app. Starts with manual on-boarding to database, then it's the application button on the main site]
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
