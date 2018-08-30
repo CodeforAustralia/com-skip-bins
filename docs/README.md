@@ -13,7 +13,7 @@ List of features:
 
 ## Use locally
 
-Just download the project and open the `doc/index.html` in a browser that's connected to the internet.
+Just download the project and open the `docs/index.html` in a browser that's connected to the internet.
 
 That's it. There is nothing to install.
 
