@@ -43,6 +43,6 @@ This makes it imperative that permits can be processed immediately.
 #### Application
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
 #### OnBoarding 
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/OnBoarding.PNG) 
+![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
 #### Dashboard
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
