@@ -20,6 +20,7 @@ ____
 2. [What we did](#what-we-did)
 3. [What we found](#what-we-found)
 4. [Design flow](#design-flow)
+4. [Tech](#Tech)
 
 ### OVERVIEW
 
@@ -46,3 +47,8 @@ This makes it imperative that permits can be processed immediately.
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
 #### Dashboard
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
+
+### TECH
+
+Aiming to develop as fast as we can under a open source license , we choosed Ruby on Rails as a base technology/Framework but not using the traditional Active Record (M(Model) layer in a  MVC project). We found MongoId that is officially (Object Document Mapper) supported by MongoDB and allow the model layer to be more flexible and on the other hand enhance the capability to use a Non Relational database (one of our goals) .
+
