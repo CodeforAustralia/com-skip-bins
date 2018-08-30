@@ -21,13 +21,13 @@ ____
 3. [What we found](#what-we-found)
 4. [Design flow](#design-flow)
 
-### [OVERVIEW](#overview)
+### OVERVIEW
 
 Before this solution, skip bin companies had to fill out a lengthy online form in order to apply for a permit. they then had to wait 3-10 business days for their permit request to be reviewed, as the department, On-site Compliance Services (OCS), only had two permit officers who had other responsibilities. 
 
 Upon review, it becamse clear that the process of approval could be automated, as all they really needed to check 
 
-### [WHAT WE DID](#what-we-did)
+### WHAT WE DID
 
 We did contextual inquiry, and user testing, as well as stakeholder interviews.
 
@@ -39,7 +39,7 @@ First, skip bin companies need permits immediately. Not in 3- 10 days. Now. This
 
 This makes it imperative that permits can be processed immediately.
 
-### [OVERVIEW](#overview)
+### OVERVIEW
 
 Before this solution, skip bin companies had to fill out a lengthy online form in order to apply for a permit. they then had to wait 3-10 business days for their permit request to be reviewed, as the department, On-site Compliance Services (OCS), only had two permit officers who had other responsibilities. 
 
