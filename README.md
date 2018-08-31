@@ -52,9 +52,14 @@ This makes it imperative that permits can be processed immediately.
 
 <strong> MVP version 1: </strong> Just apply. That's it. We manually upload skip bin information, and generate an account for each company and send the details to them. After that, they just log in, apply, and pay. No need for policy changes or anything else. If the company wants to change their information e.g. their public liability, they need to contact OCS.
 
-This still needs user testing, but content is pretty locked down and signed off. It's only partially adapted to the official CoM design guidelines.
 
 ![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
+
+NEXT STEPS:
+ - User testing
+ - Work out the payment gateway
+ - Talk to more people as only 1 person in each stakeholder and user group has been spoken to.
+ - 
 
 
 #### The following came out the clarification session we did with Cogent, and still needs to be tested and iterated:
@@ -75,9 +80,9 @@ This still needs user testing, but content is pretty locked down and signed off.
 
 ### FURTHER RESEARCH FINDINGS THAT NEED CONSIDERATION
 
-1. <strong> Because getting a refubd is a difficult process, skip bins are almost always placed before a permit is applied for (according to one skip bin company who spoke for themselves and a few others) </strong> This means every skip bin has a period in which it is non-compliant and liable for a fine. This means that the new faster application will solve many issues, but not every issue regarding illegally placed skip bins.
+1. <strong> Because getting a refund is a difficult process, skip bins are almost always placed before a permit is applied for (according to one skip bin company who spoke for themselves and a few others) </strong> This means every skip bin has a period in which it is non-compliant and liable for a fine. This means that the new faster application will solve many issues, but not every issue regarding illegally placed skip bins.
 
-2. <strong> Skip bin companies </strong>
+2. <strong> Skip bin companies need to apply for more than one permit at once </strong>. Next MVP should probably include the ability to apply for many permits at once, and only have to pay once. Additionally
 
 
 ### TECH
