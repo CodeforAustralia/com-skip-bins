@@ -62,7 +62,9 @@ NEXT STEPS:
  - User testing
  - Work out the payment gateway
  - Talk to more people as only 1 person in each stakeholder and user group has been spoken to.
- - 
+ - Make it possible to apply for more than one permit at once (and only pay once).
+ - Add in the ability to permit by space, rather than bin (as some take up more than one space at a time).
+ - Add in the ability to place different bins at different dates within one permit for one location (sometimes you need a small bin for a week, and a large bin once a week).
 
 
 #### The following came out the clarification session we did with Cogent, and still needs to be tested and iterated:
