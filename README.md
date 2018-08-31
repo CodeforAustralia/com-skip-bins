@@ -52,6 +52,8 @@ This makes it imperative that permits can be processed immediately.
 
 <strong> MVP version 1: </strong> Just apply. That's it. We manually upload skip bin information, and generate an account for each company and send the details to them. After that, they just log in, apply, and pay. No need for policy changes or anything else. If the company wants to change their information e.g. their public liability, they need to contact OCS.
 
+This still needs user testing, but content is pretty locked down and signed off. It's only partially adapted to the official CoM design guidelines.
+
 ![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
 
 
