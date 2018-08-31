@@ -26,11 +26,15 @@ ____
 
 Before this solution, skip bin companies had to fill out a lengthy online form in order to apply for a permit. they then had to wait 3-10 business days for their permit request to be reviewed, as the department, On-site Compliance Services (OCS), only had two permit officers who had other responsibilities. 
 
-Upon review, it becamse clear that the process of approval could be automated, as all they really needed to check 
+As the OCS felt that this delay in review was on them, (and because skip bin companies pay upon application) they were allowing skip bin companies to back-date permits to date of application. This however was not in alignment with Local Laws, and the officers who enforce them. This resulted in skip bin companies frequently being fined. It also resulted in arguments between all parties.
+
+It became clear that the process of approval could be automated - and a wealth of other solutions became clear - so we created a roadmap of solutions, and broke it up into MVPs that could be rolled out.
 
 ### WHAT WE DID
 
-We did contextual inquiry, and user testing, as well as stakeholder interviews.
+The project started with a partnership with Cogent, to clarify what we should be doing. This entailed rapid research with stakeholders and users, then ideation and development of an MVP roadmap.
+
+After we agreed on the roadmap, the Code for Australia team established an MVP that could be delivered first. This is what is included in this repository.  
 
 ### WHAT WE FOUND
 
@@ -40,9 +44,18 @@ First, skip bin companies need permits immediately. Not in 3- 10 days. Now. This
 
 This makes it imperative that permits can be processed immediately.
 
-### Design Flow
-#### Application
-![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
+### THE RESULT
+
+MVP version 1: Just apply. That's it. We manually upload skip bin information, and generate an account for each company and send the details to them. After that, they just log in, apply, and pay. No need for policy changes or anything else. If the company wants to change their information e.g. their public liability, they need to contact OCS.
+
+![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
+
+
+MVP v2: Make it possible for skip bin companies to register and change their information themselves.
+
+MVP 3:
+
+
 #### OnBoarding 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
 #### Dashboard
@@ -50,5 +63,5 @@ This makes it imperative that permits can be processed immediately.
 
 ### TECH
 
-Aiming to develop as fast as we can under a open source license , we choosed Ruby on Rails as a base technology/Framework but not using the traditional Active Record (M(Model) layer in a  MVC project). We found MongoId that is officially (Object Document Mapper) supported by MongoDB and allow the model layer to be more flexible and on the other hand enhance the capability to use a Non Relational database (one of our goals) .
+Aiming to develop as fast as we can under a open source license , we chose Ruby on Rails as a base technology/Framework but not using the traditional Active Record (M(Model) layer in a  MVC project). We found MongoId that is officially (Object Document Mapper) supported by MongoDB and allow the model layer to be more flexible and on the other hand enhance the capability to use a Non Relational database (one of our goals) .
 
