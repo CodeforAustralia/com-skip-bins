@@ -46,18 +46,18 @@ This makes it imperative that permits can be processed immediately.
 
 ### THE RESULT
 
-MVP version 1: Just apply. That's it. We manually upload skip bin information, and generate an account for each company and send the details to them. After that, they just log in, apply, and pay. No need for policy changes or anything else. If the company wants to change their information e.g. their public liability, they need to contact OCS.
+<strong> MVP version 1: </strong> Just apply. That's it. We manually upload skip bin information, and generate an account for each company and send the details to them. After that, they just log in, apply, and pay. No need for policy changes or anything else. If the company wants to change their information e.g. their public liability, they need to contact OCS.
 
 ![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
 
-MVP v2: Make it possible for skip bin companies to register and change their information themselves.
+<strong> MVP v2: </strong> Make it possible for skip bin companies to register and change their information themselves.
 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
 
 
-The following came out teh clarification session we did with Cogent, and still needs further evolution:
+#### The following came out teh clarification session we did with Cogent, and still needs further evolution:
 
-MVP 3: Deliver the other useful aspects like how you manage your permits, and quickly re-apply
+<strong> MVP 3: </strong> Deliver the other useful aspects like how you manage your permits, and quickly re-apply
 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
 
