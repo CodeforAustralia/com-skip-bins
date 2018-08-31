@@ -3,8 +3,8 @@
 Welcome to the skip bin permit application redesign open source repository! Here you'll find:
 
 * Useful information on the background of this project, the findings from research, and why the application was designed the way it has been.
-* PDF files of the design
-* Sketch files 
+* A flow diagram for the design
+* [Sketch file](https://github.com/CodeforAustralia/com-skip-bins/blob/master/design/MVPV1-Permit-app-responsive-V1.4.sketch) 
 * [The Mockup](https://github.com/CodeforAustralia/com-skip-bins/tree/master/docs)
 * [The Code](https://github.com/CodeforAustralia/com-skip-bins/tree/master/code)
 * [The Live Mockup](https://codeforaustralia.github.io/com-skip-bins/)
