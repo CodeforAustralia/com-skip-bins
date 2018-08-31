@@ -50,16 +50,29 @@ This makes it imperative that permits can be processed immediately.
 
 ![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
 
+
+#### The following came out the clarification session we did with Cogent, and still needs to be tested and iterated:
+
+
 <strong> MVP v2: </strong> Make it possible for skip bin companies to register and change their information themselves.
 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
 
 
-#### The following came out teh clarification session we did with Cogent, and still needs further evolution:
-
 <strong> MVP 3: </strong> Deliver the other useful aspects like how you manage your permits, and quickly re-apply
 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
+
+----
+
+## ADDITIONAL INFORMATION
+
+### FURTHER RESEARCH FINDINGS THAT NEED CONSIDERATION
+
+1. <strong> Because getting a refubd is a difficult process, skip bins are almost always placed before a permit is applied for (according to one skip bin company who spoke for themselves and a few others) </strong> This means every skip bin has a period in which it is non-compliant and liable for a fine. This means that the new faster application will solve many issues, but not every issue regarding illegally placed skip bins.
+
+2. <strong> Skip bin companies </strong>
+
 
 ### TECH
 
