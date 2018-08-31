@@ -44,6 +44,9 @@ First, skip bin companies need permits immediately. Not in 3- 10 days. Now. This
 
 This makes it imperative that permits can be processed immediately.
 
+#### CUSTOMER JOURNEY MAP:
+![Image of the journey map](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Skip-bin-permit-Journey-Map.pdf) 
+
 ### THE RESULT
 
 <strong> The Roadmap: </strong> A long term plan of all the things we found were useful. This will require further research and iteration.
