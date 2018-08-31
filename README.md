@@ -50,15 +50,15 @@ MVP version 1: Just apply. That's it. We manually upload skip bin information, a
 
 ![Image showing the design flow, from login, to application, to payment, and successful payment. It also includes the menu and how you review your business information and log out.](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/flow.jpg) 
 
-
 MVP v2: Make it possible for skip bin companies to register and change their information themselves.
 
-MVP 3:
-
-
-#### OnBoarding 
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Onboarding.PNG) 
-#### Dashboard
+
+
+The following came out teh clarification session we did with Cogent, and still needs further evolution:
+
+MVP 3: Deliver the other useful aspects like how you manage your permits, and quickly re-apply
+
 ![alt text](https://github.com/CodeforAustralia/com-skip-bins/blob/master/imgs/Dashboard.PNG) 
 
 ### TECH
