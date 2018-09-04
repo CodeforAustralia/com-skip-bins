@@ -1,0 +1,12 @@
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+.env
+.gitattributes
+.project.yml
+.sublime-workspace
+.rbenv-version
+.ruby-version
+.powenv
+.sass-cache/
